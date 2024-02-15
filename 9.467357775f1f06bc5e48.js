@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_2024=self.webpackChunk_2024||[]).push([[9],{9:(e,s,a)=>{a.r(s),a.d(s,{default:()=>n});var t=a(893),u=a(294);const c={block:"bBBhXQTn"},n=function(){var e=(0,u.useState)(!1);return e[0],e[1],(0,t.jsx)("div",{className:c.home})}}}]);
